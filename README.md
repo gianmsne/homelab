@@ -44,9 +44,6 @@
 - Calibre: E-book management system
 - Game Servers: Self-hosted multiplayer game instances
 
-<br>
-<br>
-
 # 🚧 Planned Expansions
 
 **Storage & Media**
