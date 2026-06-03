@@ -12,7 +12,7 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
 # Hardware:
 - GeeekPi DeskPi RackMate T0 Plus
 - TP-Link LiteWave LS1008G – 8-Port Gigabit Unmanaged Switch
-- Node 1: AMP Game Server
+- Node 1: Game server host
   * Model: HP EliteDesk 800 G3 DM
   * CPU: Intel i7-6700T
   * RAM: 16 GB
