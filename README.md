@@ -1,15 +1,21 @@
-# My homelab
+# 🖥️  My Homelab
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-homelab-blue)
+![OS](https://img.shields.io/badge/OS-Debian%20%2F%20Proxmox-red)
+
+> A personal homelab for learning infrastructure, self-hosting, and experimenting with networking, automation, and media services. 
+---
+
+<br>
+
 <p align="center">
-A personal homelab for learning infrastructure, self-hosting, and experimenting with networking, automation, and media services. Here’s what it looks like right now:
-
-<br>
-<br>
-
-<img width="567" height="567" alt="lab-02" src="https://github.com/user-attachments/assets/003c2e2d-e21a-4089-9dbd-33c51a647950" />
+  <img src="https://github.com/user-attachments/assets/003c2e2d-e21a-4089-9dbd-33c51a647950" width="48%" />
+  <img src="https://github.com/user-attachments/assets/e73e06cd-1618-41a1-a805-cb0bdd1e1c6f" width="48%" />
 </p>
+
 <br>
 
-# Hardware:
+# 🛠️ Hardware:
 - GeeekPi DeskPi RackMate T0 Plus
 - TP-Link LiteWave LS1008G (8-Port Gigabit Unmanaged Switch)
 - CD/DVD Drive (for an upcoming project)
@@ -25,7 +31,7 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
   * RAM: 16 GB
 
 
-# Current Stack
+# ⚙️ Current Stack
 **Core Infrastructure**
 - Proxmox VE: Virtualization host for managing all services
 - Pi-hole: Network-wide ad blocking and DNS management
@@ -39,12 +45,9 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
 - Game Servers: Self-hosted multiplayer game instances
 
 <br>
-<p align="center">
-<img width="378" height="378" alt="lab-03" src="https://github.com/user-attachments/assets/e73e06cd-1618-41a1-a805-cb0bdd1e1c6f" />
-</p>
 <br>
 
-# 🚧 Planned Expansions 🚧
+# 🚧 Planned Expansions
 
 **Storage & Media**
 - Mini NAS expansion bay
@@ -63,7 +66,7 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
 </p>
 <br>
 
-## Goals of This Homelab
+## 🎯 Goals of This Homelab
 - Learn real-world networking and infrastructure concepts
 - Practice self-hosting common services
 - Get comfortable with linux environments
