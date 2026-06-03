@@ -1,2 +1,68 @@
-# my-homelab
-A repository for documenting my homelab
+# My homelab
+<p align="center">
+A personal homelab for learning infrastructure, self-hosting, and experimenting with networking, automation, and media services. Here’s what it looks like right now:
+
+<br>
+<br>
+
+<img width="567" height="567" alt="lab-02" src="https://github.com/user-attachments/assets/003c2e2d-e21a-4089-9dbd-33c51a647950" />
+</p>
+<br>
+
+# Hardware:
+- GeeekPi DeskPi RackMate T0 Plus
+- TP-Link LiteWave LS1008G – 8-Port Gigabit Unmanaged Switch
+- Node 1: AMP Game Server
+  * Model: HP EliteDesk 800 G3 DM
+  * CPU: Intel i7-6700T
+  * RAM: 16 GB
+- Node 2: proxmox
+  * Model: HP ProDesk 600 G4 DM
+  * CPU: Intel i7-8700T
+  * RAM: 16 GB
+- CD Reader (for an upcoming project)
+
+# Current Stack
+## Core Infrastructure
+- Proxmox VE: Virtualization host for managing all services
+- Pi-hole: Network-wide ad blocking and DNS management
+
+## Monitoring & Observability
+- Uptime Kuma: Service monitoring and uptime tracking
+- Glance Dashboard: Lightweight homepage for service overview
+
+## Media & Storage
+- Calibre: E-book management system
+- Game Servers: Self-hosted multiplayer game instances
+
+<br>
+<p align="center">
+<img width="378" height="378" alt="lab-03" src="https://github.com/user-attachments/assets/e73e06cd-1618-41a1-a805-cb0bdd1e1c6f" />
+</p>
+<br>
+
+# Planned Expansion 🚧
+
+## Storage & Media
+- Mini NAS expansion bay
+- TrueNAS: Dedicated storage system
+- Plex: Media streaming server
+  
+## Networking & Access
+- Nginx Proxy Manager: Reverse proxy with SSL management
+  
+## Automation
+- Home Assistant: Smart home automation platform
+
+<br>
+<p align="center">
+<img width="378" height="378" alt="lab-01" src="https://github.com/user-attachments/assets/02bdff31-8b12-46af-9f80-12964cb3a108" />
+</p>
+<br>
+
+### Goals of This Homelab
+- Learn real-world networking and infrastructure concepts
+- Practice self-hosting common services
+- Get comfortable with linux environments
+- Retain a lab structure that is easily expandable
+
