@@ -11,7 +11,10 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
 
 # Hardware:
 - GeeekPi DeskPi RackMate T0 Plus
-- TP-Link LiteWave LS1008G – 8-Port Gigabit Unmanaged Switch
+- TP-Link LiteWave LS1008G (8-Port Gigabit Unmanaged Switch)
+- CD/DVD Drive (for an upcoming project)
+
+**Nodes:**
 - Node 1: Game server host
   * Model: HP EliteDesk 800 G3 DM
   * CPU: Intel i7-6700T
@@ -20,18 +23,18 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
   * Model: HP ProDesk 600 G4 DM
   * CPU: Intel i7-8700T
   * RAM: 16 GB
-- CD Reader (for an upcoming project)
+
 
 # Current Stack
-## Core Infrastructure
+**Core Infrastructure**
 - Proxmox VE: Virtualization host for managing all services
 - Pi-hole: Network-wide ad blocking and DNS management
 
-## Monitoring & Observability
+**Monitoring & Observability**
 - Uptime Kuma: Service monitoring and uptime tracking
 - Glance Dashboard: Lightweight homepage for service overview
 
-## Media & Storage
+**Media & Storage**
 - Calibre: E-book management system
 - Game Servers: Self-hosted multiplayer game instances
 
@@ -41,17 +44,17 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
 </p>
 <br>
 
-# Planned Expansion 🚧
+# 🚧 Planned Expansions 🚧
 
-## Storage & Media
+**Storage & Media**
 - Mini NAS expansion bay
 - TrueNAS: Dedicated storage system
 - Plex: Media streaming server
   
-## Networking & Access
+**Networking & Access**
 - Nginx Proxy Manager: Reverse proxy with SSL management
   
-## Automation
+**Automation**
 - Home Assistant: Smart home automation platform
 
 <br>
@@ -60,7 +63,7 @@ A personal homelab for learning infrastructure, self-hosting, and experimenting 
 </p>
 <br>
 
-### Goals of This Homelab
+## Goals of This Homelab
 - Learn real-world networking and infrastructure concepts
 - Practice self-hosting common services
 - Get comfortable with linux environments
