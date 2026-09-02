@@ -53,6 +53,7 @@
   
 **Networking & Access**
 - Nginx Proxy Manager: Reverse proxy with SSL management
+- Tailscale: Secure remote access
   
 **Automation**
 - Home Assistant: Smart home automation platform
