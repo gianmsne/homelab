@@ -44,7 +44,7 @@
 - Calibre: E-book management system
 - Game Servers: Self-hosted multiplayer game instances
 
-** Labs
+**Labs**
 - [Active Directory Lab](./active-directory-lab/): Windows Server and Windows client environment for learning Active Directory, DNS, domain administration, Group Policy, and Windows administration
 
 # 🚧 Planned Expansions
