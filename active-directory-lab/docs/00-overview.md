@@ -31,3 +31,4 @@
 1. [Create the isolated Proxmox network](01-proxmox-network.md)
 2. [Create and configure the Domain Controller VM](02-domain-controller.md)
 3. [Install and configure Active Directory](03-active-directory.md)
+4. [Setup a client Windows VM](04-client-setup.md)
