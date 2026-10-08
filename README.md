@@ -1,4 +1,4 @@
-# 🖥️  My Homelab
+# My Homelab
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Platform](https://img.shields.io/badge/platform-homelab-blue)
 ![OS](https://img.shields.io/badge/OS-Debian%20%2F%20Proxmox-red)
@@ -15,7 +15,7 @@
 
 <br>
 
-# 🛠️ Hardware:
+# Hardware:
 - GeeekPi DeskPi RackMate T0 Plus
 - TP-Link LiteWave LS1008G (8-Port Gigabit Unmanaged Switch)
 - CD/DVD Drive (for an upcoming project)
@@ -25,13 +25,14 @@
   * Model: HP EliteDesk 800 G3 DM
   * CPU: Intel i7-6700T
   * RAM: 16 GB
+    
 - Node 2: proxmox
   * Model: HP ProDesk 600 G4 DM
   * CPU: Intel i7-8700T
   * RAM: 16 GB
 
 
-# ⚙️ Current Stack
+# Current Stack
 **Core Infrastructure**
 - Proxmox VE: Virtualization host for managing all services
 - Pi-hole: Network-wide ad blocking and DNS management
@@ -47,7 +48,7 @@
 **Labs**
 - [Active Directory Lab](./active-directory-lab/): Windows Server and Windows client environment for learning Active Directory, DNS, domain administration, Group Policy, and Windows administration
 
-# 🚧 Planned Expansions
+# Planned Expansions
 
 **Storage & Media**
 - Mini NAS expansion bay
@@ -67,7 +68,7 @@
 </p>
 <br>
 
-## 🎯 Goals of This Homelab
+## Goals of This Homelab
 - Learn real-world networking and infrastructure concepts
 - Practice self-hosting common services
 - Get comfortable with linux environments
